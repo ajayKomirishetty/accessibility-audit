@@ -1,0 +1,1 @@
+{"name":"a11y-remediation-copilot","private":true,"scripts":{"dev:client":"npm --prefix client run dev","dev:server":"npm --prefix server run dev","install:all":"npm --prefix server install && npm --prefix client install"},"version":"0.1.0"}
